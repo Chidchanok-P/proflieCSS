@@ -1,0 +1,53 @@
+/* CSS file --> contacts.html */
+/* (1) Tag Selector */
+body{
+    background-image: url(https://images5.alphacoders.com/758/758207.jpg);
+    background-size: 100%;
+}
+h1{
+    text-align: center; 
+    font-family: 'Abril Fatface';
+    color: white;
+    background-color: black;
+}
+table{
+    width: 100%; 
+    text-align: center;
+    color: white;
+    font-family: 'Maven Pro';
+    font-weight: bolder;
+}
+/* (2) Class Selector */
+.table-mn{
+    width: 100%; 
+    text-align: center;
+}
+.menu{
+    font-family: 'Gugi';
+}
+.web{
+    font-family: 'Maven Pro';
+    font-weight: bold;
+    color: rgb(10, 70, 70);
+    border-style: dotted;
+    border-color: rgb(13, 124, 120);
+    width: 300px;
+    height: 30px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://img.freepik.com/free-vector/iridescent-holographic-background_54454-11.jpg?size=626&ext=jpg);
+}
+.ym{
+    font-family: 'Abril Fatface';
+    font-size: 20px;    
+    color: rgb(30, 43, 104);
+    background-image: url("https://i.pinimg.com/474x/4f/d1/30/4fd130be9ebaf5e52be749d4f4b6494c.jpg");
+}
+/* div */
+.table-menu td:hover{
+    background-image: url("https://i.pinimg.com/originals/a2/36/8d/a2368d500c2f2c5824453e72fbc00472.jpg");
+}
+.table-menu{
+    background-image: url("https://www.siamzone.com/board/upload/4022/4022083.jpg");
+}

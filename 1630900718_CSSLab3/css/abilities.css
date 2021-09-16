@@ -1,0 +1,57 @@
+/* CSS file --> abilities.html */
+/* (1) Tag Selector */
+body{
+    background-image: url(https://img5.goodfon.com/wallpaper/nbig/c/52/northern-lights-colors-night.jpg);
+    background-size: 100%;
+}
+h1{
+    text-align: center; 
+    font-family: 'Abril Fatface';
+    color: white;
+    background-color: black;
+}
+h4{
+    text-align: center; 
+    font-family: 'Amaranth'; 
+    color: white;
+}
+h5{
+    text-align: center; 
+    font-family: 'Amaranth'; 
+    font-weight: normal;
+    color: white;
+}
+h2{
+    text-align: center;
+    font-family: 'Abril Fatface';
+    color: rgb(30, 43, 104);
+    background-image: url("https://i.pinimg.com/474x/4f/d1/30/4fd130be9ebaf5e52be749d4f4b6494c.jpg");
+    width: 580px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* (2) Class Selector */
+.table-mn{
+    width: 100%; 
+    text-align: center;
+}
+.menu{
+    font-family: 'Gugi';
+}
+.skill{
+    margin-left: auto; 
+    margin-right: auto;
+    border-style: dotted;
+    border-width: thick;
+    border-color:aquamarine; 
+    font-family: 'Maven Pro';
+    font-weight: bolder;
+}
+/* div */
+.table-menu td:hover{
+    background-image: url("https://i.pinimg.com/originals/a2/36/8d/a2368d500c2f2c5824453e72fbc00472.jpg");
+}
+.table-menu{
+    background-image: url("https://www.siamzone.com/board/upload/4022/4022083.jpg");
+}

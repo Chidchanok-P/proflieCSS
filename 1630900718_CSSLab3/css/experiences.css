@@ -1,0 +1,86 @@
+/* CSS file --> Experiences.html */
+/* (1) Tag Selector */
+body{
+    background-image: url(https://images.wallpapersden.com/image/download/aurora-borealis-digital-art_bGlrZWqUmZqaraWkpJRmbmdlrWZlbWU.jpg);
+}
+h1{
+    text-align: center; 
+    font-family: 'Abril Fatface';
+}
+h4{
+    text-align: center; 
+    font-family: 'Amaranth';
+}
+h5{
+    text-align: center; 
+    font-family: 'Amaranth'; 
+    font-weight: normal;
+}
+/* (2) Class Selector */
+.table-Ex{
+    margin-left: auto;
+    margin-right: auto;
+}
+.table-mn{
+        width: 100%; 
+        text-align: center;
+}
+.p-Experiences{
+    color: white;
+    background-color: black;
+}
+.menu{
+    font-family: 'Gugi';
+}
+.f-exper{
+    font-family: 'Abril Fatface';
+    color: rgb(30, 43, 104);
+    background-image: url("https://i.pinimg.com/474x/4f/d1/30/4fd130be9ebaf5e52be749d4f4b6494c.jpg");
+}
+.circle{
+    list-style-type: circle;
+    color: white;
+    font-family: 'Maven Pro';
+    border: 2px solid white;
+    width: 600px;
+    height: 60px;
+}
+.disc{
+    list-style-type: disc;
+    color: white;
+    font-family: 'Maven Pro';
+    border: 2px solid white;
+    width: 600px;
+    height: 120px;
+}
+.square{
+    list-style-type: square;
+    color: white;
+    font-family: 'Maven Pro';
+    border: 2px solid white;
+    width: 600px;
+    height: 160px;
+}
+.ol{
+    color: white;
+    font-family: 'Maven Pro';
+    border: 2px solid white;
+    width: 600px;
+    height: 60px;
+}
+/* div */
+.table-menu td:hover{
+    background-image: url("https://i.pinimg.com/originals/a2/36/8d/a2368d500c2f2c5824453e72fbc00472.jpg");
+}
+.table-menu{
+    background-image: url("https://www.siamzone.com/board/upload/4022/4022083.jpg");
+}
+.name-page{
+    border-style: dotted dashed solid double;
+    color: rgb(255, 255, 255);
+    width: 300px;
+    height: 100px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+}

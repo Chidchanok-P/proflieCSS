@@ -1,0 +1,52 @@
+/* CSS file --> projects */
+/* (1) Tag Selector */
+body{
+    background-image: url(https://i.pinimg.com/originals/04/6a/32/046a32aec54a4ae7913df673ea82d988.jpg);
+    background-size: 100%;
+}
+h1{
+    text-align: center; 
+    font-family: 'Abril Fatface';
+    color: white;
+    background-color: black;
+}
+p{
+    text-align: center;
+}
+/* (2) Class Selector */
+.table-mn{
+    width: 100%; 
+    text-align: center;
+}
+.menu{
+    font-family: 'Gugi';
+}
+.b{
+    text-align: center;
+    color: rgb(30, 43, 104);
+    font-family: 'Abril Fatface';
+    font-weight: normal;
+    background-image: url("https://i.pinimg.com/474x/4f/d1/30/4fd130be9ebaf5e52be749d4f4b6494c.jpg");
+    width: 800px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+/* div */
+.table-menu td:hover{
+    background-image: url("https://i.pinimg.com/originals/a2/36/8d/a2368d500c2f2c5824453e72fbc00472.jpg");
+}
+.table-menu{
+    background-image: url("https://www.siamzone.com/board/upload/4022/4022083.jpg");
+}
+.slogan{
+    text-align: center; 
+    font-family: 'Amaranth'; 
+    color: white;
+    border-style: double;
+    width: 700px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
